@@ -35,5 +35,6 @@ These versions require you to register your downloads. Please make a GitHub Issu
 
 ## Download
 Linux CLI [link](https://livememphis-my.sharepoint.com/:u:/g/personal/jrhaner_memphis_edu/EY3WEDKxilVPsWK5Fs08wjQBTRQ5rmP4Yt-sTd-G49zkNg?e=R949N8)
+
 Windows CLI [link](https://livememphis-my.sharepoint.com/:u:/g/personal/jrhaner_memphis_edu/ETJiwBEgDU1BnPIMgptfW44BJVfMTu91AQMM6nOmRub3pw?e=ZVYO1S)
 
