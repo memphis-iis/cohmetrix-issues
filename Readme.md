@@ -23,6 +23,6 @@ CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating syst
 
 These versions require you to register your downloads. Please make a GitHub Issue with your Name, Email, and Institution, along side with the code that the software gives you.
 
-## Dowload
+## Download
 Linux CLI [link](https://livememphis-my.sharepoint.com/:u:/g/personal/jrhaner_memphis_edu/EY3WEDKxilVPsWK5Fs08wjQBTRQ5rmP4Yt-sTd-G49zkNg?e=R949N8)
 
