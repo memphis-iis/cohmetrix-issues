@@ -7,7 +7,7 @@ CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating syst
 ### Windows
 
 - .NET 6 Runtime installed on your machine [link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.16-windows-x64-installer)
-- ASP.NET Core 6 Runtime installed on yor machine [link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.16-windows-x64-installer
+- ASP.NET Core 6 Runtime installed on yor machine [link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.16-windows-x64-installer)
 
 ### Linux (CLI)
 
