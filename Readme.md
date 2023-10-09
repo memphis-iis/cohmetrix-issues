@@ -4,7 +4,7 @@ CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating syst
 
 ## Dependencies
 
-### Windows
+### Windows (CLI)
 
 - .NET 6 Runtime installed on your machine [link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.16-windows-x64-installer)
 - ASP.NET Core 6 Runtime installed on yor machine [link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.16-windows-x64-installer)
@@ -18,6 +18,26 @@ CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating syst
 - ASP .NET Runtime
 
 `sudo apt install aspnet`
+
+### Mac (CLI) Experimental
+
+- .NET 6 Runtime [link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.22-macos-x64-installer)
+
+-ASP .NET Runtime [link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.22-macos-x64-binaries)
+
+## Download
+
+- Please download the build release. They are located in /Release/Build #/
+- Unzip the package to your desired directory and run the following
+
+### Windows 
+
+`CohMetrixCoreCLI.bat <input file or directory> <output CSV>`
+
+### Linux and Mac
+
+`CohMetrixCoreCLI.sh <input file or directory> <output CSV>`
+
 
 ## Licensing
 
