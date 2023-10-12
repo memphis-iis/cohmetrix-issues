@@ -11,9 +11,11 @@ CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating syst
 
 ### WIndows (Desktop)
 
+- .NET 6 Runtime installed on your machine [link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.16-windows-x64-installer)
+- ASP.NET Core 6 Runtime installed on yor machine [link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.16-windows-x64-installer)
 - Mono for Windows (required for CohMetrixCoreGTK) [Download Mono](https://www.mono-project.com/download/stable/#download-win)
 
-### Linux (CLI)
+### Linux (CLI and Desktop)
 
 - .NET 6 Runtime
 
@@ -22,11 +24,6 @@ CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating syst
 - ASP .NET Runtime
 
 `sudo apt install aspnet`
-
-### Ubuntu (GTK)
-
-- .NET 6 Runtime
--  GTK3
 
 ## Download
 
