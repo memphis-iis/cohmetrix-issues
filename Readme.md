@@ -9,6 +9,10 @@ CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating syst
 - .NET 6 Runtime installed on your machine [link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.16-windows-x64-installer)
 - ASP.NET Core 6 Runtime installed on yor machine [link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.16-windows-x64-installer)
 
+### WIndows (Desktop)
+
+- Mono for Windows (required for CohMetrixCoreGTK) [Download Mono](https://www.mono-project.com/download/stable/#download-win)
+
 ### Linux (CLI)
 
 - .NET 6 Runtime
@@ -19,26 +23,32 @@ CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating syst
 
 `sudo apt install aspnet`
 
-### Mac (CLI) Experimental
+### Ubuntu (GTK)
 
-- .NET 6 Runtime [link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.22-macos-x64-installer)
-
--ASP .NET Runtime [link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.22-macos-x64-binaries)
+- .NET 6 Runtime
+-  GTK3
 
 ## Download
 
-- Please download the build release. They are located in /Release/Build #/
-- Unzip the package to your desired directory and run the following
+- Windows GTK: Use installer in repository
+- Ubuntu GTK: Use the debian package in repository
 
-### Windows 
+### Windows (CLI)
 
 `CohMetrixCoreCLI.exe <input file or directory> <output CSV>`
 
-### Linux and Mac
+### Linux (CLI)
 
 `CohMetrixCoreCLI <input file or directory> <output CSV>`
 
+### Windows (GTK)
+
+Installed in the Start Menu
+
+### Linux (GTK)
+
+`/user/bin/cohmetrixcoregtk/bin/CohMetrixCoreGTK`
 
 ## Licensing
 
-New versions of CohMetrixCore will have a licensing schema. CohMetrixCore is provided free of charge, but to control it's integrity, we will ask all researchers to register.
+New versions of CohMetrixCore will have a licensing schema. CohMetrixCore is provided free of charge, but to control it's integrity, we will ask all researchers to register. Please make an issue with the secret key that the app generates.
