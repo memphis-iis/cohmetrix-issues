@@ -51,8 +51,8 @@ Installed in the Start Menu
 New versions of CohMetrixCore will have a licensing schema. CohMetrixCore is provided free of charge, but to control it's integrity, we will ask all researchers to register. Please use this form [link](https://github.com/memphis-iis/cohmetrix-issues/issues/new) to make an issue with the secret key that the app generates.
 
 ### Example Prompt:
+![image](https://github.com/memphis-iis/cohmetrix-issues/assets/46696077/64b25905-317d-40ff-a8a2-1768d0c596b8)
 
-![Screenshot from 2023-11-20 08-17-27](https://github.com/memphis-iis/cohmetrix-issues/assets/46696077/9da20eba-1539-41f8-b46d-3ee4d5d2f0ab)
 
 ### Example Issue:
 
