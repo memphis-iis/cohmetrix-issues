@@ -52,7 +52,7 @@ New versions of CohMetrixCore will have a licensing schema. CohMetrixCore is pro
 
 ### Example Prompt:
 
-![Screenshot from 2023-11-20 08-17-27](https://github.com/memphis-iis/cohmetrix-issues/assets/46696077/9da20eba-1539-41f8-b46d-3ee4d5d2f0ab)
+![image](https://github.com/memphis-iis/cohmetrix-issues/assets/46696077/7f1f3be0-7dcc-42b5-a42d-438e005833b1)
 
 ### Example Issue:
 
