@@ -58,11 +58,15 @@ New versions of CohMetrixCore will have a licensing schema. CohMetrixCore is pro
 
 Name:
 
+Email:
+
 Insitution:
 
 Secret key:
 
 Description of your research:
+
+
 
 
 
