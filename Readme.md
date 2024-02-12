@@ -26,7 +26,7 @@ CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating syst
 
 
 
-### Linux (CLI and Desktop)
+### Linux (CLI)
 
 - .NET 6 Runtime
 
@@ -45,17 +45,9 @@ CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating syst
 
 `CohMetrixCoreCLI.exe <input file or directory> <output CSV>`
 
-### Linux (CLI)
+### Linux / MacOS (CLI)
 
 `CohMetrixCoreCLI <input file or directory> <output CSV>`
-
-### Windows (GTK)
-
-Installed in the Start Menu
-
-### Linux (GTK)
-
-`/user/bin/cohmetrixcoregtk/bin/CohMetrixCoreGTK`
 
 ## Licensing
 
