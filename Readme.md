@@ -1,10 +1,44 @@
-# Announcment
-
-We are aware of Issues with the Linux and MacOS version. These are extensive, and will take time. We are incrementing the version number for those prematurely. These versions will not function until this issue is fixed.
 
 # CohMetrixCore
 
 CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating systems, a program that leverages natural language processing to analyze discourse. It computes a wide range of linguistic indices to assess various aspects of language in written or spoken text, enabling you to determine text quality, readability, and other specific properties. This system conducts in-depth analyses across multiple text dimensions, including simple indices like word frequency and sentence length, as well as more complex indices such as cohesion and syntactic complexity. CohMetrixCore can be employed in educational tutoring systems, research, and a variety of applications where in-depth text analysis is necessary.
+
+
+# Announcment (New Releases)
+
+A Linux and MacOS version is now available for testing. We are also changing our registration process soon to correspond with a new web tool release. 
+
+## Upgrading
+
+Upgrades to the newest build may require redownloading the data. Please delete these folders if you have them:
+
+C:\Program Files (x86)\CohMetrixCore\data (Windows)
+~/.local/share/CohMetrixCore (Linux and MacOS)
+
+Cohmetrix will automatically redownload the files.
+
+
+## Licensing
+
+We are testing a new licensing scheme that will generate licenses automatically with a web portal registration. For now, when the software asks for a email or API key, just enter anything. Since that will return an error, it will ask you for your registration key as described below:
+
+New versions of CohMetrixCore will have a licensing schema. CohMetrixCore is provided free of charge, but to control it's integrity, we will ask all researchers to register. Please use this form [link](https://github.com/memphis-iis/cohmetrix-issues/issues/new) to make an issue with the secret key that the app generates.
+
+### Example Prompt:
+![image](https://github.com/memphis-iis/cohmetrix-issues/assets/46696077/04e47f73-d30c-4784-8b9f-384cc325c923)
+
+
+### Example Issue:
+
+Name:
+
+Email:
+
+Insitution:
+
+Secret key:
+
+Description of your research:
 
 ## Dependencies
 
@@ -53,25 +87,6 @@ CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating syst
 
 `CohMetrixCoreCLI <input file or directory> <output directory>`
 
-## Licensing
-
-New versions of CohMetrixCore will have a licensing schema. CohMetrixCore is provided free of charge, but to control it's integrity, we will ask all researchers to register. Please use this form [link](https://github.com/memphis-iis/cohmetrix-issues/issues/new) to make an issue with the secret key that the app generates.
-
-### Example Prompt:
-![image](https://github.com/memphis-iis/cohmetrix-issues/assets/46696077/04e47f73-d30c-4784-8b9f-384cc325c923)
-
-
-### Example Issue:
-
-Name:
-
-Email:
-
-Insitution:
-
-Secret key:
-
-Description of your research:
 
 
 
