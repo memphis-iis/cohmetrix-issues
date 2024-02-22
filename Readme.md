@@ -12,8 +12,8 @@ A Linux and MacOS version is now available for testing. We are also changing our
 
 Upgrades to the newest build may require redownloading the data. Please delete these folders if you have them:
 
-C:\Program Files (x86)\CohMetrixCore\data (Windows)
-~/.local/share/CohMetrixCore (Linux and MacOS)
+``C:\Program Files (x86)\CohMetrixCore\data (Windows)``
+``~/.local/share/CohMetrixCore (Linux and MacOS)``
 
 Cohmetrix will automatically redownload the files.
 
