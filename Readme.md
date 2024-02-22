@@ -47,11 +47,11 @@ CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating syst
 
 ### Windows (CLI)
 
-`CohMetrixCoreCLI.exe <input file or directory> <output CSV>`
+`CohMetrixCoreCLI.exe <input file or directory> <output directory>`
 
 ### Linux / MacOS (CLI)
 
-`CohMetrixCoreCLI <input file or directory> <output CSV>`
+`CohMetrixCoreCLI <input file or directory> <output directory>`
 
 ## Licensing
 
