@@ -8,7 +8,7 @@ CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating syst
 
 A Linux and MacOS version is now available for testing. We are also changing our registration process soon to correspond with a new web tool release. 
 
-We will no longer be generating licenses for the MacOs and Linux Versions. You may use the self service portal at [link]http://cohmetrix-new.memphis.edu/home[/link] Windows users will be migrated over soon.
+We will no longer be generating licenses for the MacOs and Linux Versions. You may use the self service portal at [link](http://cohmetrix-new.memphis.edu/home) Windows users will be migrated over soon.
 
 ## Upgrading
 
