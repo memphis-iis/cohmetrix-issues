@@ -8,9 +8,8 @@ CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating syst
 
 # Announcment (Licensing)
 
-A Linux and MacOS version is now available for testing. We are also changing our registration process soon to correspond with a new web tool release.  
 
-We will no longer be generating licenses for the MacOs and Linux Versions. You may use the self service portal at [link](http://cohmetrix-new.memphis.edu/home) Windows users will be migrated over soon.
+We will no longer be generating licenses for all versions unless there is an issue with the self service portal.. You may use the self service portal at [link](http://cohmetrix-new.memphis.edu/home) Windows users will be migrated over soon.
 
 ## Upgrading
 
@@ -20,16 +19,6 @@ Upgrades to the newest build may require redownloading the data. Please delete t
 ``~/.local/share/CohMetrixCore (Linux and MacOS)``
 
 Cohmetrix will automatically redownload the files.
-
-
-## Licensing
-
-We are testing a new licensing scheme that will generate licenses automatically with a web portal registration. For now, when the software asks for a email or API key, just enter anything. Since that will return an error, it will ask you for your registration key as described below:
-
-New versions of CohMetrixCore will have a licensing schema. CohMetrixCore is provided free of charge, but to control it's integrity, we will ask all researchers to register. Please use this form [link](https://github.com/memphis-iis/cohmetrix-issues/issues/new) to make an issue with the secret key that the app generates.
-
-### Example Prompt:
-![image](https://github.com/memphis-iis/cohmetrix-issues/assets/46696077/04e47f73-d30c-4784-8b9f-384cc325c923)
 
 
 ### Example Issue:
@@ -77,11 +66,6 @@ Description of your research:
 - ASP .NET Runtime
 
 `sudo apt install aspnet`
-
-## Download
-
-- Windows: Use installer in repository - dont use the GTK version, it's experimental.
-- Ubuntu GTK: Use the debian package in repository
 
 ### Windows (CLI)
 
