@@ -9,7 +9,7 @@ CohMetrixCORE is a .NET 6 implementation of Coh-Metrix for modern operating syst
 # Announcment (Licensing)
 
 
-We will no longer be generating licenses for all versions unless there is an issue with the self service portal.. You may use the self service portal at [link](http://cohmetrix-new.memphis.edu/home) Windows users will be migrated over soon.
+We will no longer be generating licenses for all versions unless there is an issue with the self service portal.. You may use the self service portal at [link](http://cohmetrix-new.memphis.edu/home) 
 
 ## Upgrading
 
