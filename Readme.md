@@ -1,7 +1,7 @@
 
 # CohMetrixCore
 
-[link](http://cohmetrix-new.memphis.edu/home)
+[link](http://cohmetrix.memphis.edu/home)
 
 CohMetrixCORE is a .NET 7 implementation of Coh-Metrix for modern operating systems, a program that leverages natural language processing to analyze discourse. It computes a wide range of linguistic indices to assess various aspects of language in written or spoken text, enabling you to determine text quality, readability, and other specific properties. This system conducts in-depth analyses across multiple text dimensions, including simple indices like word frequency and sentence length, as well as more complex indices such as cohesion and syntactic complexity. CohMetrixCore can be employed in educational tutoring systems, research, and a variety of applications where in-depth text analysis is necessary.
 
